@@ -203,7 +203,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 2000); // Change image every 2 seconds
+  setTimeout(showSlides, 2000); s
 }
-.d{color:#777; text-align: center;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.d{color:#717171; text-align: center;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
  
