@@ -205,5 +205,5 @@ function showSlides() {
   dots[slideIndex-1].className += " active";
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
-.d{color: lightcoral; text-align: center;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.d{color: palevioletred; text-align: center;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
  
